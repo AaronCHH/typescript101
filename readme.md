@@ -1,5 +1,5 @@
 # Readme
-First TS project from course
+First TS project
 
 ## Install
 ```bash
@@ -28,3 +28,6 @@ ts-node index.ts
 
 ## Data
 * [jsonplaceholder](https://jsonplaceholder.typicode.com/)
+
+## Refs
+* [Udemy-Typescript: The Complete Developer's Guide](https://www.udemy.com/course/typescript-the-complete-developers-guide/learn/lecture/)
